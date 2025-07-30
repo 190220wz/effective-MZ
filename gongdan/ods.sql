@@ -6,6 +6,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS test.ods_user_behavior (
   channel STRING COMMENT '访问渠道（含直播间等需排除的渠道）',
   is_click TINYINT COMMENT '是否点击（1=是，0=否）'
 )
+
 PARTITIONED BY (ds STRING COMMENT '分区日期，格式yyyyMMdd')
 STORED AS ORC
 LOCATION '/warehouse/test/ods_user_behavior'  -- 指定HDFS存储路径
