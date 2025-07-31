@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sparksql/gmall/37b783e5-05f6-4368-a21a-b60ddb379c12/a.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sparksql/gmall/37b783e5-05f6-4368-a21a-b60ddb379c12/ads.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sparksql/gmall/37b783e5-05f6-4368-a21a-b60ddb379c12/dim.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sparksql/gmall/37b783e5-05f6-4368-a21a-b60ddb379c12/dwd.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sparksql/gmall/37b783e5-05f6-4368-a21a-b60ddb379c12/dws.sql" dialect="GenericSQL" />
+  </component>
+</project>
