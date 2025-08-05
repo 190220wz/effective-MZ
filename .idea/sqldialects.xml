@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/gongdan/9/ads.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/gongdan/9/dim.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/gongdan/9/dwd.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/gongdan/9/dws.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/gongdan/9/ods.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/ads.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/dwd.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/dws.sql" dialect="GenericSQL" />
