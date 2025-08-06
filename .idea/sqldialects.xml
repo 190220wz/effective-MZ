@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/gongdan/5/day85/ddl_scripts/ods_dim_goods_info.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/day85/ddl_scripts/ods_dim_monitor_goods_setting.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/day85/ddl_scripts/ods_fact_goods_guide_effect.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/day85/ddl_scripts/ods_fact_goods_relation.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/day85/ddl_scripts/ods_fact_user_goods_behavior.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/sql/dim.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/5/sql/ods.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/ads.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_activity_refund_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_base.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_favorite_cart_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_traffic_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_transaction_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/day86/ddl_scripts/ods_product_user_stratify_stats.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/dim.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/dwd.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/gongdan/86/dws.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/ads.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/dwd.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/gongdan/dws.sql" dialect="GenericSQL" />
